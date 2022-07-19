@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi,
+
+my name is Vinicius Couto and this profile is used mainly to learn.
+- I'm currently learning [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp), [Git](https://git-scm.com/) and [MarkDown](https://daringfireball.net/projects/markdown/).
+- I use [Debian](https://www.debian.org/), [LaTex](https://www.latex-project.org/), [Texstudio](https://www.texstudio.org/) and [Sublime](https://www.sublimetext.com/).
 
 <!--
+### Hi there 👋
+
 **vimcless/vimcless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
